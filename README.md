@@ -1,2 +1,2 @@
 # covid19-spread-analysis
-A Flask app to look at Covid spreak
+A Flask app to look at Covid spread
